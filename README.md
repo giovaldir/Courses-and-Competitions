@@ -1,1 +1,1 @@
-# Python
+# Courses and Competitions
