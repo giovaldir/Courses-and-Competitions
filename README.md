@@ -1,1 +1,1 @@
-# Courses and Competitions
+# Personal Notes and Competitions
