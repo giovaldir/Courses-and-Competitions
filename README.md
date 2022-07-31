@@ -1,1 +1,1 @@
-# Personal Notes and Competitions
+# Machine Learning Algorithms
